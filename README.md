@@ -3,8 +3,11 @@
 [comment]: <> (<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Forks"></a>)
 [comment]: <> (<p align="center"><a href="https://discord.gg/khaUkXxneH" target="_blank"><img src="https://discordapp.com/api/guilds/995960657214189578/widget.png?style=shield" alt="shield.png"></a></p></p>)
 
-```python
-print(f'Follow {Fastiraz} on Github')
+```c
+int main(int argc, char **argv){
+    printf("Follow [Fastiraz] on Github");
+    return 0;
+}
 ```
 
 ```python
