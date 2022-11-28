@@ -9,10 +9,6 @@ Languages  :  Python, C/C++, Bash, Assembly, SQL, C#
 
 <a href="https://discord.gg/khaUkXxneH" target="_blank"><img src="https://github.com/Fastiraz/Fastiraz/blob/main/assets/github-contribution-grid-snake.svg" alt="snake"></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fastiraz" alt="fastiraz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fastiraz" target="blank"><img src="https://img.shields.io/twitter/follow/fastiraz?logo=twitter&style=for-the-badge" alt="fastiraz" /></a> </p>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
