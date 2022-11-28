@@ -9,8 +9,8 @@ Languages  :  Python, C/C++, Bash, Assembly, SQL, C#
 
 <a href="https://discord.gg/khaUkXxneH" target="_blank"><img src="https://github.com/Fastiraz/Fastiraz/blob/main/assets/github-contribution-grid-snake.svg" alt="snake"></a>
 
-![Fastiraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fastiraz&show_icons=true&theme=transparent&border_color=FC273F&bg_color=DEG,4568dc,b06ab3)
+![Fastiraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fastiraz&show_icons=true&theme=default&border_color=000000&bg_color=DEG,141e30,243b55)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fastiraz&repo=Plate-Reader&theme=transparent&border_color=FC273F)](https://github.com/Fastiraz/Plate-Reader&border_color=FC273F&bg_color=DEG,4568dc,b06ab3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fastiraz&repo=Plate-Reader&theme=default&border_color=000000&bg_color=DEG,141e30,243b55)](https://github.com/Fastiraz/Plate-Reader)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fastiraz&theme=transparent&border_color=FC273F&bg_color=DEG,4568dc,b06ab3)](https://github.com/Fastiraz/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fastiraz&theme=default&border_color=000000&bg_color=DEG,141e30,243b55)](https://github.com/Fastiraz/)
