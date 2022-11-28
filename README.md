@@ -11,6 +11,6 @@ Languages  :  Python, C/C++, Bash, Assembly, SQL, C#
 
 ![Fastiraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fastiraz&show_icons=true&theme=nord&border_color=bdc3c7&bg_color=DEG,141e30,243b55)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fastiraz&repo=Plate-Reader&theme=nord&border_color=bdc3c7&bg_color=DEG,141e30,243b55)](https://github.com/Fastiraz/Plate-Reader)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fastiraz&repo=Plate-Reader&theme=nord&border_color=bdc3c7&bg_color=DEG,141e30,243b55)](https://github.com/Fastiraz/Plate-Reader)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fastiraz&theme=nord&border_color=bdc3c7&bg_color=DEG,141e30,243b55)](https://github.com/Fastiraz/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fastiraz&theme=nord&border_color=bdc3c7&bg_color=DEG,141e30,243b55)](https://github.com/Fastiraz/)-->
