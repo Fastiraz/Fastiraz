@@ -9,4 +9,4 @@ Languages  :  Python, C/C++, Bash, Assembly, SQL, C#
 
 <a href="https://discord.gg/khaUkXxneH" target="_blank"><img src="https://github.com/Fastiraz/Fastiraz/blob/main/assets/github-contribution-grid-snake.svg" alt="snake"></a>
 
-![Fastiraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Fastiraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fastiraz&show_icons=true&theme=transparent)
