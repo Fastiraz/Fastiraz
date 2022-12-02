@@ -11,7 +11,7 @@ Languages  :  Python, C/C++, Bash, Assembly, SQL, C#
 
 ![Fastiraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fastiraz&show_icons=true&theme=nord&border_color=bdc3c7&bg_color=DEG,141e30,243b55)
 
-<a href="https://github.com/Fastiraz/github-readme-stats">
+<a href="https://fastiaz.github.io/">
   <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=fastiraz&show_icons=true&theme=nord&border_color=bdc3c7&bg_color=DEG,141e30,243b55)" />
 </a>
 
