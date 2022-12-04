@@ -1,8 +1,7 @@
 ```text
-   Server  :  https://discord.gg/khaUkXxneH
        OS  :  Arch Linux
-Languages  :  Python, C/C++, Bash, Assembly, SQL, C#
-  Discord  :  Fastiraz#8165
+Languages  :  Python, C/C++, Bash, C#, Assembly, SQL
+  Discord  :  https://discord.gg/khaUkXxneH
   Website  :  https://fastiraz.github.io/
       Doc  :  https://fastiraz.gitbook.io/doc
 ```
