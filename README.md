@@ -1,6 +1,7 @@
 ```text
        OS  :  Arch Linux
 Languages  :  Python, C/C++, Bash, C#, Assembly, SQL
+
   Discord  :  https://discord.gg/khaUkXxneH
   Website  :  https://fastiraz.github.io/
       Doc  :  https://fastiraz.gitbook.io/doc
