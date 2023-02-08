@@ -1,6 +1,6 @@
 ```text
        OS  :  Λrch Linux
-Languages  :  Python, C/C++, Bash, C#, Assembly, SQL
+Languages  :  Python, C/C++, Go, Bash, C#, Assembly, NodeJS
   Discord  :  https://discord.gg/khaUkXxneH
   Website  :  https://fastiraz.github.io/
       Doc  :  https://fastiraz.gitbook.io/doc
