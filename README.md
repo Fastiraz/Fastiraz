@@ -1,5 +1,5 @@
 ```text
-       OS  :  Arch Linux
+       OS  :  Λrch Linux
 Languages  :  Python, C/C++, Bash, C#, Assembly, SQL
   Discord  :  https://discord.gg/khaUkXxneH
   Website  :  https://fastiraz.github.io/
