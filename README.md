@@ -6,6 +6,14 @@ Languages  :  Python, C/C++, Go, Bash, C#, Assembly, NodeJS
       Doc  :  https://fastiraz.gitbook.io/doc
 ```
 
+<!--```text
+YAML       9 hrs 3 mins    ███████████████████▒░░░░░   77.49 %
+Python     1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+Docker     54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+Bash       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Other      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+```-->
+
 <a href="https://discord.gg/khaUkXxneH" target="_blank"><img src="https://github.com/Fastiraz/Fastiraz/blob/main/assets/github-contribution-grid-snake.svg" alt="snake"></a>
 
 <!--<div style="text-align:center" style="width:20px;"><img src="https://github.com/Fastiraz/Fastiraz/blob/main/assets/rpi-removebg.png" /></div>-->
