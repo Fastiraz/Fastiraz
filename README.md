@@ -1,9 +1,10 @@
 ```text
-       OS  :  Λrch Linux
-Languages  :  Python, C/C++, Go, Bash, C#, Assembly, NodeJS
-  Discord  :  https://discord.gg/khaUkXxneH
-  Website  :  https://fastiraz.github.io/
-      Doc  :  https://fastiraz.gitbook.io/doc
+         OS  :  Λrch Linux
+  Languages  :  C/C++, Rust, Assembly, Python, Go, Bash, C#, JS...
+Text Editor  :  Neovim & Atom 
+    Discord  :  https://discord.gg/khaUkXxneH
+    Website  :  https://fastiraz.github.io/
+        Doc  :  https://fastiraz.gitbook.io/doc
 ```
 
 <!--```text
