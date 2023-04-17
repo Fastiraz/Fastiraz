@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=76F6B0&multiline=true&width=435&lines=%24.%2Fusr%2Fbin%2Fwhoami;%E2%9E%9C+Fastiraz)](https://git.io/typing-svg)
+
 ```text
          OS  :  Λrch Linux
   Languages  :  C/C++, Rust, Assembly, Python, Go, Bash, C#, JS...
