@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=76F6B0&multiline=true&width=435&lines=%24.%2Fusr%2Fbin%2Fwhoami;%E2%9E%9C+Fastiraz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=76F6B0&center=true&multiline=true&width=435&lines=%24.%2Fusr%2Fbin%2Fwhoami;%E2%9E%9C+Fastiraz)](https://git.io/typing-svg)
+
+<br>
 
 ```text
          OS  :  Λrch Linux
