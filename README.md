@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=76F6B0&center=true&vCenter=true&multiline=true&width=435&lines=%23+.%2Fusr%2Fbin%2Fwhoami;%E2%9E%9C+Fastiraz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=76F6B0&center=true&vCenter=false&multiline=true&width=435&lines=%23+.%2Fusr%2Fbin%2Fwhoami;%E2%9E%9C+Fastiraz)](https://git.io/typing-svg)
 
 <br>
 
