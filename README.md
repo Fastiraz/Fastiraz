@@ -19,6 +19,8 @@ Bash       20 mins         ▓░░░░░░░░░░░░░░░░�
 Other      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```-->
 
+<a href="https://discord.gg/khaUkXxneH" target="_blank"><img src="https://github.com/Fastiraz/Fastiraz/blob/main/assets/100MDevs_Blog_1200x627_v3.gif" alt="dance"></a>
+
 <a href="https://discord.gg/khaUkXxneH" target="_blank"><img src="https://github.com/Fastiraz/Fastiraz/blob/main/assets/github-contribution-grid-snake.svg" alt="snake"></a>
 
 <!--<div style="text-align:center" style="width:20px;"><img src="https://github.com/Fastiraz/Fastiraz/blob/main/assets/rpi-removebg.png" /></div>-->
