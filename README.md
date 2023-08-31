@@ -1,6 +1,5 @@
-<div align="center">
-         [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=100&color=76F6B0&width=435&lines=%23+.%2Fusr%2Fbin%2Fwhoami;%E2%9E%9C+Fastiraz)](https://fastiraz.github.io)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=100&color=76F6B0&width=435&lines=%23+.%2Fusr%2Fbin%2Fwhoami;%E2%9E%9C+Fastiraz)](https://fastiraz.github.io)
+
 <br>
 
 ```text
