@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=100&color=76F6B0&width=435&lines=%23+.%2Fusr%2Fbin%2Fwhoami;%E2%9E%9C+Fastiraz)](https://fastiraz.github.io)
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9FEF00FF&multiline=true&random=false&width=435&lines=%2Fusr%2Fbin%2Fwhoami;Fastiraz)](https://fastiraz.github.io)
 
 ```text
          OS  :  Λrch Linux
