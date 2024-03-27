@@ -2,8 +2,8 @@
 
 ```text
          OS  :  Λrch Linux
-  Languages  :  C/C++, Rust, Assembly, Python, Go, Bash, C#, JS...
-Text Editor  :  Neovim & Atom 
+  Languages  :  C/C++, Go, Python, Rust, Assembly, Bash, C#, TS, Powershell...
+Text Editor  :  Zed & Neovim
     Discord  :  https://discord.gg/khaUkXxneH
     Website  :  https://fastiraz.github.io/
         Doc  :  https://fastiraz.gitbook.io/doc
